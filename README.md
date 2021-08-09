@@ -5,7 +5,7 @@ https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dat
 
 Question: Can we develop an early stage diabetes predictor with the dataset?
 
-I performed random forest using Python and achieved a predictor with 96% accuracy after separating the dataset into a training and testing dataset.
+I performed random forest through Jupyter Notebook and achieved a predictor with 96% accuracy after separating the dataset into a training and testing dataset.
 
 The dataset is cleaned through OpenRefine, please find the data dictionary below. The cleaned dataset is attached in the repository. 
 
