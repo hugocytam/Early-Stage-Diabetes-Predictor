@@ -21,6 +21,8 @@ There are two trees stored to explain the relationships between the variables.
 
 Please go through the code to identify the two most important variables.
 
-Resource: https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+Resource: 
+- Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron 
+- https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
 p.s. This is my first ever post. Please be kind.
