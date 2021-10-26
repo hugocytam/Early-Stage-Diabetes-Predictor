@@ -1,9 +1,9 @@
-Created a model to predict early stage diabetes through random forest method using Python. 
+Created a model to predict early-stage diabetes through random forest, decision tree and support vector machine method using Python. 
 
-I used a data set from the UCI Machine Learning Repository 
+Data set from the UCI Machine Learning Repository:
 https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.
 
-Question: Can we develop an early stage diabetes predictor with the dataset?
+Question: Can we develop an early-stage diabetes predictor with the dataset?
 
 I performed random forest through Jupyter Notebook and achieved a predictor with 96% accuracy after separating the dataset into a training and testing dataset.
 
